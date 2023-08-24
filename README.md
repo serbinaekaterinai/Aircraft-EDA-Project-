@@ -33,8 +33,8 @@ To address Midwest Jet's specific needs, we reduced our dataset by observing US 
 
 ![graph2](./images/fav_unfav_whole.png)
 
-    * In relation to total accidents reported, Airbus has reported a very high percentage of non-fatal, low injury accidents
-    * In addition, Boeing should not be eliminated from consideration as over 50% of Boeing accidents result in ”favorable” outcome as well
+   * In relation to total accidents reported, Airbus has reported a very high percentage of non-fatal, low injury accidents
+   * In addition, Boeing should not be eliminated from consideration as over 50% of Boeing accidents result in ”favorable” outcome as well
 
 ![graph3](./images/fav_2.png)
 
