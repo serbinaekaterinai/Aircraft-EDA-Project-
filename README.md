@@ -1,11 +1,11 @@
-# Aircraft EDA Phase 1 Project - Midwest Jet Expansion Proposal
+# Aircraft EDA - Midwest Jet Expansion Proposal
 Authors: [Emily Krueger](https://github.com/ekrueger1217) & [Katya Serbina](https://github.com/serbinaekaterinai)
 
 ## Overview
 Midwest Jet is a regional commercial airline that operats in the Midwest region of the United States (US). After years of continued growth and success in the Midwest, Midwest Jet is exploring the opportunity to expand operations geographically to additional US markets. In doing so, passenger safety is top of mind and will drive decision making throughout the process. 
 
 ## Business Understanding
-Using data from the National Transportation Safety Board that includes global aircraft accident and incident records from 1962 to 2023, we'll be addressng the following: 
+Using data from the National Transportation Safety Board that includes global aircraft accident and incident records from 1962 to 2023, we'll be addressing the following: 
 
 1. What is the best market to enter next?
 2. Which aircrafts are best to acquire to expand Midwest Jet's existing fleet to accomodate increased operations?
@@ -54,6 +54,16 @@ In analyzing a subset of aircraft accident data from the National Transportation
 2. To ensure a smooth and safe expansion, Midwest Jet should acquire additional Airbus or Boeing aircrafts to support increased operations
 3. We propose Midwest Jet launch expansion to the East Coast in late Q1 of 2024, to ensure low severe accident risk as the company weathers initial launch speed bumps
 
+## Additional Considerations and Next Steps
+   * Consider existing contracts or potential costs/cost savings associated with purchase of aircrafts
+   * Explore overall flight data including daily flight counts, delays, and cancelations per month in assessing launch timeline
+   * Evaluate and select appropriate airports on the East Coast that align with the airline's expansion strategy
+   * Develop detailed operational plans for flight scheduling, aircraft maintenance, ground operations, and logistics at the new East Coast locations , to ensure smooth coordination between existing Midwest operations and the new East Coast operations
+
+## Additional Materials
+Please review our full analysis in our [Jupyter Notebook](./Aircraft_Accidents_EDA.ipynb) or our [presentation](./Aircraft_EDA_Midwest_Jet_Expansion_Propsal.pdf). 
+
+You can find additional visuals on [this](https://public.tableau.com/app/profile/ekaterina.serbina/viz/ProjectMidwestJet/ProjectMidwestJet?publish=yes) tableau dashboard
     
 
 
