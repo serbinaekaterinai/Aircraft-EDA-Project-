@@ -61,7 +61,7 @@ In analyzing a subset of aircraft accident data from the National Transportation
    * Develop detailed operational plans for flight scheduling, aircraft maintenance, ground operations, and logistics at the new East Coast locations , to ensure smooth coordination between existing Midwest operations and the new East Coast operations
 
 ## Additional Materials
-Please review our full analysis in our [Jupyter Notebook](./Aircraft_Accidents_EDA.ipynb) or our [presentation](Midwest_Jet_Presentation) . 
+Please review our full analysis in our [Jupyter Notebook](./Aircraft_Accidents_EDA.ipynb) or our [presentation](./Midwest_Jet_Presentation.pdf) . 
 
 You can find additional visuals on [this](https://public.tableau.com/app/profile/ekaterina.serbina/viz/ProjectMidwestJet/ProjectMidwestJet?publish=yes) tableau dashboard.
     
